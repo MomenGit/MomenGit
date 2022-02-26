@@ -1,20 +1,6 @@
 ### Hi there 👋
 
-<p
-    style="
-      color: whitesmoke;
-      background-color: black;
-      font-size: 64px;
-      font-weight: 700;
-      font-family: 'Roboto Condensed';
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 150px;
-    "
->
-   <strong>&lt/MomentaDEV&gt</strong>
-</p>
+<p style="color: whitesmoke; background-color: black; font-size: 64px; font-weight: 700; font-family: 'Roboto Condensed'; display: flex; align-items: center; justify-content: center; height: 150px;">&lt/MomentaDEV&gt</p>
 
 <!--
 **MomenGit/MomenGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
