@@ -6,8 +6,9 @@
   />
 <h1 align="center" style="font-size: 64;"><strong>&lt/MomentaDEV&gt</strong></h1>
 
-####- An Electronics and Communication Engineering Student
-####- Experienced in .net core and C#
+#### An Electronics and Communication Engineering Student
+
+#### Experienced in .net core and C#
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning HTML, CSS & JS
