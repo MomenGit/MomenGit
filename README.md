@@ -9,8 +9,8 @@
 - An Electronics and Communication Engineering Student
 - Experienced in .net core and C#
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning HTML, CSS & JS
+- ####🔭 I’m currently working on something cool
+- ####🌱 I’m currently learning HTML, CSS & JS
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
