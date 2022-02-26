@@ -6,8 +6,10 @@
 
 #### Experienced in .net core and C#
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning HTML, CSS & JS
+#### Experienced in Flutter
+
+- 🔭 Currently working on something cool
+- 🌱 Currently learning HTML, CSS & JS
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
