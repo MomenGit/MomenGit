@@ -4,9 +4,9 @@
 
 #### An Electronics and Communication Engineering student
 
-#### Experienced in .net core and C#
+##### Experienced in .net core and C#
 
-#### Experienced in Flutter
+##### Experienced in Flutter and UI/UX
 
 - 🔭 Currently working on something cool
 - 🌱 Currently learning HTML, CSS & JS
