@@ -1,15 +1,21 @@
-<h1 align="center" style="font-size: 64;"><strong>&lt/MomentaDEV&gt</strong></h1>
+![Hi I am Momen Magdy](/cover.jpg)
 
-### Hi there 👋
+### Hi there 👋, I am Momen Magdy a humble and a hard-working developer
 
 #### An Electronics and Communication Engineering student
 
-##### Experienced in .net core and C#
+#### Skills:
 
-##### Experienced in Flutter and UI/UX
+- .NET Core (C#)
+- Flutter
+- C
+- HTML, CSS & JS
+
+#### Extras:
 
 - 🔭 Currently working on something cool
-- 🌱 Currently learning HTML, CSS & JS
+- 🌱 Currently studying CS through OSSU and Backend development
+- ⚡ Enthusiastic about Game Development
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
