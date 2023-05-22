@@ -1,10 +1,10 @@
 ![Hi I am Momen Magdy](/cover.jpg)
 
 ### Hi there 👋, I am Momen Majdy a humble and a hard-working developer
-
+* * *
 #### An Electronics and Communications Engineering student
 #### Software Engineer (Front-End)
-
+* * *
 #### Skills:
 - Front-End
   - Flutter
@@ -12,9 +12,8 @@
 - C
 - Python
 - UI/UX Design
-
-#### Extras:
 * * *
+#### Extras:
 - 🔭 Currently working on something cool
 - 🌱 Currently studying CS through OSSU and Front-End development
 - ⚡ Enthusiastic about Front-End
